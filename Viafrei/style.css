@@ -1,0 +1,31 @@
+#page-header {
+  height:80px;
+  width: 100%;
+  background-color: red;
+}
+
+.logo{
+  width: 200px;
+  border-style: solid;
+
+}
+.logo-height{
+  height: 200px
+}
+
+.tooltip {
+  position:relative;;
+  display: inline-block;
+  border-bottom: 1px dotted black;
+}
+
+.tooltip .tooltip-text{
+    visibility: hidden;
+    width: 120px;
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    border-radius: 6px;
+
+}
